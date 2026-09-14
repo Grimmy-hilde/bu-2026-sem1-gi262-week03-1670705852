@@ -11,7 +11,7 @@ namespace Assignment.StudentSolution
             base.Attack(target);
         }
 
-        public void CasySpell(Entity target)
+        public void CastSpell(Entity target)
         {
 
         }
